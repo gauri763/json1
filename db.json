@@ -1,0 +1,21 @@
+[{
+  "announcemnt_id": 1,
+  "announcemnt": "<p>Donec porta erat et tortor pellentesque, a scelerisque augue consectetur. Vivamus quis suscipit ligula. Nulla facilisi. Cras vehicula nibh id justo pretium condimentum. Suspendisse potenti. Donec eu condimentum nisl. Morbi dapibus erat est, nec ornare justo lacinia ac. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras ultrices id odio ac accumsan. Etiam vitae malesuada odio. Phasellus fermentum tellus placerat, porta lorem eu, gravida felis. Nunc semper luctus nisl sed fermentum.</p>",
+  "u_date": "2020-12-15",
+  "updated_at": {
+    "$date": "2020-12-15T06:56:59.306Z"
+  },
+  "created_at": {
+    "$date": "2020-12-15T06:05:21.239Z"
+  }
+},{
+  "announcemnt_id": 5,
+  "announcemnt": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ex vel urna commodo tempor ac eu ante. Nam justo neque, faucibus non odio placerat, commodo fringilla urna. Sed nec elit non eros dapibus tincidunt nec nec dui. Sed sit amet aliquam magna, eu gravida nisi. In pellentesque diam ut libero tincidunt, eget ultricies est semper. Sed cursus at magna id scelerisque. Suspendisse commodo purus at mi tempus, eu tincidunt lacus blandit. Maecenas in aliquet dui. Morbi nisl ante, rutrum eget libero non, volutpat gravida turpis. Ut orci arcu, consectetur sit amet tortor quis, mollis fringilla nulla. In eget urna in nisi auctor gravida ut a purus. Donec accumsan felis sit amet tortor tincidunt commodo at ac urna. Fusce mattis mi quis urna bibendum condimentum. Suspendisse mollis arcu et mauris efficitur luctus. Nam porta eget velit ut euismod.</p>",
+  "u_date": "2020-12-15",
+  "updated_at": {
+    "$date": "2020-12-15T06:15:09.659Z"
+  },
+  "created_at": {
+    "$date": "2020-12-15T06:15:09.659Z"
+  }
+}]
